@@ -7,7 +7,7 @@ Final project for Udemy course
 
 ** Make sure you use postgreSQL instead of mySQL for this code base.
 
-* Install Packages *
+ Install Packages 
 1. Npm install nodemon
 2. Npm install bcrypt
 3. Npm install body-parser
