@@ -1,5 +1,5 @@
-# SmartBrain-api - v1
-Final project for Udemy course
+# Big Brain BackEnd
+Facial Recognition App
 
 1. Clone this repo
 2. Run `npm install`
